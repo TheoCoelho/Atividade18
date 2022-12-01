@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="urso.css">
+    <title>Document</title>
+</head>
+<body>
+    <script type="text/javascript">
+        var estados = ["urso-1.png","urso-2.png","urso-3.png"]
+        var indice = estados.length - 1
+        var margem = 10
+        
+        function regressiva(){
+            if (indice < 0){ 
+                indice = estados.length -1
+            }
+            document.getElementById("contar-imagem").src = estados[indice]
+            indice = indice -1
+        }
+        function andar(){
+            margem = margem + 10
+            document.getElementById("contar-imagem").style.marginLeft = margem + "px"
+        }
+        setInterval(regressiva, 50)
+        setInterval(andar, 50)
+
+    </script>
+    <img id="contar-imagem" src="urso-1.png">    
+</body>
+</html>
