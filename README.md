@@ -19,5 +19,6 @@ Esse repositório possui o código do meu primeiro projeto no Git. Foi bem legal
 - `CSS`
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/7065152?s=96&v=4" width=115><br><sub>Carlos Severiano</sub>](https://github.com/cseveriano) |
-| :---: |
+| <img src="octocat-1669907476715.png" |
+
+![octocat-1669907476715](https://user-images.githubusercontent.com/118085127/205090790-d8efeda7-a91f-4347-90cb-9a13e1d1192d.png ) 
