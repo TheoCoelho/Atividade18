@@ -18,5 +18,5 @@ Esse repositório possui o código do meu primeiro projeto no Git. Foi bem legal
 - `HTML`
 - `CSS`
 # Autores
-| [<img src="https://avatars.githubusercontent.com/u/7065152?s=96&v=4" width=115><br><sub>Theo Coelho</sub>](https://github.com/TheoCoelho) |
+| [<img src="https://user-images.githubusercontent.com/118085127/205090790-d8efeda7-a91f-4347-90cb-9a13e1d1192d.png" width=115><br><sub>Theo Coelho</sub>](https://github.com/TheoCoelho) |
 | :---: |
